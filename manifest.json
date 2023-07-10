@@ -5,7 +5,7 @@
     "manifest_version" : 3,
     "author" :  "Savan Masipeddi",
     "action" : {
-        "default_popup" : "script.js",
+        "default_popup" : "index.html",
         "default_title" : "My Chrome Extension" 
     }
 }
